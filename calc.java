@@ -8,5 +8,8 @@ Class Main{
 		//for addition
 		int add = a+b;
 		System.out.println("Addition : "+add);
+		//for multiplication
+		int mul = a*b;
+		System.out.println("Multiplication : "+mul);
 	}
 	}
