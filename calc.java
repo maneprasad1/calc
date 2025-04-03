@@ -11,5 +11,8 @@ Class Main{
 		//for addition
                 int sub = a-b;
                 System.out.println("Subtraction : "+sub);
+		//for multiplication
+		int mul = a*b;
+		System.out.println("Multiplication : "+mul);
 	}
 	}
