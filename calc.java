@@ -8,7 +8,7 @@ Class Main{
 		//for addition
 		int add = a+b;
 		System.out.println("Addition : "+add);
-		//for addition
+		//for subtraction
                 int sub = a-b;
                 System.out.println("Subtraction : "+sub);
 		//for multiplication
