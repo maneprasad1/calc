@@ -1,4 +1,6 @@
-Class Main{
+
+import java.util.Scanner;
+class Main{
 	public static void main(String[] args){
 
 		Scanner sc = new Scanner(System.in);
@@ -14,5 +16,6 @@ Class Main{
 		//for multiplication
 		int mul = a*b;
 		System.out.println("Multiplication : "+mul);
+		sc.close();
 	}
 	}
